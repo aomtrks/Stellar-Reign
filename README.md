@@ -2,7 +2,13 @@
 A game conceptualized, developed, and published solely by me.
 
 ## Game Logo
+
+
+
 ![Game Logo](https://appimg-dre.dbankcdn.com/application/icon144/65/8ccd4a0dca314533b79f75f0c59d78cf.png)
+
+
+
 ## 🚀 Stellar Reign: Arcade Space Adventure
 This repository serves as proof of concept and development history for Stellar Reign, a published arcade space adventure game.
 
