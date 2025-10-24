@@ -1,7 +1,4 @@
 # Stellar-Reign
-A game made and published by me.
-
-# Stellar-Reign
 A game conceptualized, developed, and published solely by me.
 
 ## Game Logo
