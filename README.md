@@ -3,7 +3,7 @@ A game conceptualized, developed, and published solely by me.
 
 ## Game Logo
 
-**[Oyun Logo Yer Tutucusu]**
+![Game Logo]([https://img.itch.zone/aW1hZ2UvMzgxNDYyNi8yMjc0MTIzNS5wbmc=/original/bV2fmf.png](https://appimg-dre.dbankcdn.com/application/icon144/65/8ccd4a0dca314533b79f75f0c59d78cf.png))
 
 ## 🚀 Stellar Reign: Arcade Space Adventure
 This repository serves as proof of concept and development history for Stellar Reign, a published arcade space adventure game.
@@ -34,10 +34,8 @@ Stellar Reign has been successfully deployed and published. You can find it on t
 
 | Platform | Download Link |
 | :--- | :--- |
-| **Uptodown:** | `[Link to be added]` |
-| **Itch.io:** | `[Link to be added]` |
-| **AppGallery (Huawei):** | `[Link to be added]` |
-| **(Diğer Platformlar):** | `[Link to be added]` |
+| **Itch.io:** | `https://perfectumventus.itch.io/breadking` |
+| **AppGallery (Huawei):** | `https://appgallery.huawei.com/app/C115430081` |
 
 The source code for this commercial project is kept private but the final product can be verified via the links above.
 
