@@ -5,7 +5,7 @@ A game conceptualized, developed, and published solely by me.
 
 
 
-![Game Logo](https://img.itch.zone/aW1hZ2UvMzgxNDYyNi8yMjc0MTIzNS5wbmc=/original/bV2fmf.png)
+![Game Logo](https://img.itch.zone/aW1hZ2UvMzkxODE3Ny8yMzM2MzY5Mi5wbmc=/original/MAJB7K.png)
 
 
 
